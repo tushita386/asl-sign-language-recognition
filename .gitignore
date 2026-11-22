@@ -1,0 +1,22 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+
+# Raw webcam dataset
+data/landmarks.csv
+
+# Previous model backup
+model_previous.pkl
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
